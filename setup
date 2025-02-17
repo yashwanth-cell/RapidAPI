@@ -1,0 +1,3 @@
+mkdir rapid-clone && cd rapid-clone
+npm init -y
+npm install express mongoose dotenv bcryptjs jsonwebtoken cors stripe
