@@ -1,0 +1,4 @@
+node server.js
+npx react-native init RapidoClone
+cd RapidoClone
+npm install axios
